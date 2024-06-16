@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Profile Creation Extension",
+  "name": "Job Application Assistant",
   "version": "1.0",
-  "description": "A Chrome extension to create and manage user profiles.",
+  "description": "A Chrome extension to create and manage job application profiles.",
   "permissions": [
     "storage",
     "activeTab",
