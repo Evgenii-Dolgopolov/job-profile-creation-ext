@@ -1,7 +1,8 @@
-To run the extension:
+To run Job Application Assistant:
+
 1. download the zip file from this repo
 2. unpack the file
-3. go to Google Chrome extensions or simply paste this line in Chrome browser - chrome://extensions/
+3. go to Google Chrome extensions or paste the following line in Chrome browser - chrome://extensions/
 4. turn on "developer mode"
 5. click "load unpacked" and select the unpacked file that
 6. run the extension
