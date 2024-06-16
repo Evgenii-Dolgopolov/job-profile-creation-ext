@@ -48,7 +48,7 @@ document.getElementById("autofill").addEventListener("click", function () {
     } else {
       console.log("Profile data not found in storage.")
       alert(
-        "Profile data not found. Please create a profile or autofill profile information."
+        "Profile data not found. Please create a profile."
       )
     }
   })
